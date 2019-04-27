@@ -7,3 +7,4 @@ On all the apps there is an input for your email and password
 
 Requirements: flask, flask_mail
 
+Before running, go through and fill in stuff in the <>'s. OK
