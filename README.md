@@ -8,3 +8,13 @@ On all the apps there is an input for your email and password<br><br>
 Requirements: flask, flask_mail<br><br>
 
 Before running, go through and fill in stuff in the <>'s. OK
+
+# <strong>INSTALLATION</strong><br>
+Choice 1.<br>
+<p>    On windows use git clone https://github.com/kairanaquazi/mailapps</p>
+
+Choice 2.<br>
+<p>    Download latest release</p>
+
+Choice 3. <br>
+<p>    Download zip for whole repo</p>
